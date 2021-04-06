@@ -1,13 +1,20 @@
 ---
 name: Bug report
-about: Nos diga o que devemos melhorar =)
+about: 'Nos conte: o que deu errado?'
 title: ''
 labels: bug
 assignees: ''
 
 ---
 
-**Descreva o Bug**
+**Escolha o tipo de bug**
+
+- [ ] Visual (layout e/ou interação estranhos)
+- [ ] Feature quebrada
+- [ ] Dado inválido
+- [ ] Outro
+
+**Descreva o bug**
 O que aconteceu? Qual é o bug? Descreva de maneira clara.
 
 **Como reproduzir?**
@@ -16,22 +23,13 @@ Passo a passo:
 2. Clique em '....'
 3. Erro
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Comportamento esperado**
+Uma descrição clara e concisa de qual resultado você esperava.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Se aplicável, inclua screenshots.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Plataforma (forneça as seguintes informações):**
+ - SO: [ex.: Windows]
+ - Navegador [ex.: chrome, safari]
+ - Versão do navegador [ex.: 22]
